@@ -1,0 +1,149 @@
+Manifest-Version: 1.0
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+Rsrc-Class-Path: ./ aws-sdk-java-2.20.17.jar acm-2.20.17.jar aws-json-pr
+ otocol-2.20.17.jar protocol-core-2.20.17.jar sdk-core-2.20.17.jar react
+ ive-streams-1.0.3.jar auth-2.20.17.jar eventstream-1.0.1.jar http-clien
+ t-spi-2.20.17.jar regions-2.20.17.jar annotations-2.20.17.jar utils-2.2
+ 0.17.jar aws-core-2.20.17.jar metrics-spi-2.20.17.jar json-utils-2.20.1
+ 7.jar endpoints-spi-2.20.17.jar apache-client-2.20.17.jar httpcore-4.4.
+ 13.jar netty-nio-client-2.20.17.jar netty-codec-http-4.1.86.Final.jar n
+ etty-codec-http2-4.1.86.Final.jar netty-codec-4.1.86.Final.jar netty-tr
+ ansport-4.1.86.Final.jar netty-resolver-4.1.86.Final.jar netty-common-4
+ .1.86.Final.jar netty-buffer-4.1.86.Final.jar netty-handler-4.1.86.Fina
+ l.jar netty-transport-native-unix-common-4.1.86.Final.jar netty-transpo
+ rt-classes-epoll-4.1.86.Final.jar acmpca-2.20.17.jar alexaforbusiness-2
+ .20.17.jar amplify-2.20.17.jar apigateway-2.20.17.jar apigatewaymanagem
+ entapi-2.20.17.jar apigatewayv2-2.20.17.jar applicationautoscaling-2.20
+ .17.jar applicationdiscovery-2.20.17.jar appmesh-2.20.17.jar appstream-
+ 2.20.17.jar appsync-2.20.17.jar athena-2.20.17.jar autoscaling-2.20.17.
+ jar aws-query-protocol-2.20.17.jar autoscalingplans-2.20.17.jar backup-
+ 2.20.17.jar batch-2.20.17.jar budgets-2.20.17.jar chime-2.20.17.jar clo
+ ud9-2.20.17.jar clouddirectory-2.20.17.jar cloudformation-2.20.17.jar c
+ loudfront-2.20.17.jar aws-xml-protocol-2.20.17.jar cloudhsm-2.20.17.jar
+  cloudhsmv2-2.20.17.jar cloudsearch-2.20.17.jar cloudsearchdomain-2.20.
+ 17.jar cloudtrail-2.20.17.jar cloudwatch-2.20.17.jar cloudwatchevents-2
+ .20.17.jar cloudwatchlogs-2.20.17.jar codebuild-2.20.17.jar codecommit-
+ 2.20.17.jar codedeploy-2.20.17.jar codepipeline-2.20.17.jar codestar-2.
+ 20.17.jar cognitoidentity-2.20.17.jar cognitoidentityprovider-2.20.17.j
+ ar cognitosync-2.20.17.jar comprehend-2.20.17.jar comprehendmedical-2.2
+ 0.17.jar config-2.20.17.jar connect-2.20.17.jar costandusagereport-2.20
+ .17.jar costexplorer-2.20.17.jar databasemigration-2.20.17.jar datapipe
+ line-2.20.17.jar datasync-2.20.17.jar dax-2.20.17.jar devicefarm-2.20.1
+ 7.jar directconnect-2.20.17.jar directory-2.20.17.jar dlm-2.20.17.jar d
+ ocdb-2.20.17.jar profiles-2.20.17.jar dynamodb-2.20.17.jar ec2-2.20.17.
+ jar ecr-2.20.17.jar ecs-2.20.17.jar efs-2.20.17.jar eks-2.20.17.jar ela
+ sticache-2.20.17.jar elasticbeanstalk-2.20.17.jar elasticloadbalancing-
+ 2.20.17.jar elasticloadbalancingv2-2.20.17.jar elasticsearch-2.20.17.ja
+ r elastictranscoder-2.20.17.jar emr-2.20.17.jar firehose-2.20.17.jar fm
+ s-2.20.17.jar fsx-2.20.17.jar gamelift-2.20.17.jar glacier-2.20.17.jar 
+ globalaccelerator-2.20.17.jar glue-2.20.17.jar greengrass-2.20.17.jar g
+ uardduty-2.20.17.jar health-2.20.17.jar iam-2.20.17.jar inspector-2.20.
+ 17.jar iot-2.20.17.jar iot1clickdevices-2.20.17.jar iot1clickprojects-2
+ .20.17.jar iotanalytics-2.20.17.jar iotdataplane-2.20.17.jar iotjobsdat
+ aplane-2.20.17.jar kafka-2.20.17.jar kinesis-2.20.17.jar aws-cbor-proto
+ col-2.20.17.jar third-party-jackson-dataformat-cbor-2.20.17.jar kinesis
+ analytics-2.20.17.jar kinesisanalyticsv2-2.20.17.jar kinesisvideo-2.20.
+ 17.jar kinesisvideoarchivedmedia-2.20.17.jar kinesisvideomedia-2.20.17.
+ jar kms-2.20.17.jar lambda-2.20.17.jar lexmodelbuilding-2.20.17.jar lex
+ runtime-2.20.17.jar licensemanager-2.20.17.jar lightsail-2.20.17.jar ma
+ chinelearning-2.20.17.jar macie-2.20.17.jar managedblockchain-2.20.17.j
+ ar marketplacecommerceanalytics-2.20.17.jar marketplaceentitlement-2.20
+ .17.jar marketplacemetering-2.20.17.jar mediaconnect-2.20.17.jar mediac
+ onvert-2.20.17.jar medialive-2.20.17.jar mediapackage-2.20.17.jar media
+ packagevod-2.20.17.jar mediastore-2.20.17.jar mediastoredata-2.20.17.ja
+ r mediatailor-2.20.17.jar migrationhub-2.20.17.jar mobile-2.20.17.jar m
+ q-2.20.17.jar mturk-2.20.17.jar neptune-2.20.17.jar opsworks-2.20.17.ja
+ r opsworkscm-2.20.17.jar organizations-2.20.17.jar pi-2.20.17.jar pinpo
+ int-2.20.17.jar pinpointemail-2.20.17.jar pinpointsmsvoice-2.20.17.jar 
+ polly-2.20.17.jar pricing-2.20.17.jar quicksight-2.20.17.jar ram-2.20.1
+ 7.jar rds-2.20.17.jar rdsdata-2.20.17.jar redshift-2.20.17.jar rekognit
+ ion-2.20.17.jar resourcegroups-2.20.17.jar resourcegroupstaggingapi-2.2
+ 0.17.jar robomaker-2.20.17.jar route53-2.20.17.jar route53domains-2.20.
+ 17.jar route53resolver-2.20.17.jar s3-2.20.17.jar arns-2.20.17.jar s3co
+ ntrol-2.20.17.jar s3-transfer-manager-2.20.17.jar sagemaker-2.20.17.jar
+  sagemakerruntime-2.20.17.jar secretsmanager-2.20.17.jar securityhub-2.
+ 20.17.jar serverlessapplicationrepository-2.20.17.jar servicecatalog-2.
+ 20.17.jar servicediscovery-2.20.17.jar ses-2.20.17.jar sfn-2.20.17.jar 
+ shield-2.20.17.jar signer-2.20.17.jar sms-2.20.17.jar snowball-2.20.17.
+ jar sns-2.20.17.jar sqs-2.20.17.jar ssm-2.20.17.jar storagegateway-2.20
+ .17.jar sts-2.20.17.jar support-2.20.17.jar swf-2.20.17.jar textract-2.
+ 20.17.jar transcribe-2.20.17.jar transcribestreaming-2.20.17.jar transf
+ er-2.20.17.jar translate-2.20.17.jar waf-2.20.17.jar workdocs-2.20.17.j
+ ar worklink-2.20.17.jar workmail-2.20.17.jar workspaces-2.20.17.jar xra
+ y-2.20.17.jar groundstation-2.20.17.jar iotthingsgraph-2.20.17.jar iote
+ vents-2.20.17.jar ioteventsdata-2.20.17.jar personalizeruntime-2.20.17.
+ jar personalize-2.20.17.jar personalizeevents-2.20.17.jar servicequotas
+ -2.20.17.jar applicationinsights-2.20.17.jar ec2instanceconnect-2.20.17
+ .jar eventbridge-2.20.17.jar lakeformation-2.20.17.jar forecast-2.20.17
+ .jar forecastquery-2.20.17.jar qldb-2.20.17.jar qldbsession-2.20.17.jar
+  workmailmessageflow-2.20.17.jar codestarnotifications-2.20.17.jar savi
+ ngsplans-2.20.17.jar sso-2.20.17.jar ssooidc-2.20.17.jar third-party-ja
+ ckson-core-2.20.17.jar marketplacecatalog-2.20.17.jar sesv2-2.20.17.jar
+  dataexchange-2.20.17.jar migrationhubconfig-2.20.17.jar connectpartici
+ pant-2.20.17.jar wafv2-2.20.17.jar appconfig-2.20.17.jar iotsecuretunne
+ ling-2.20.17.jar elasticinference-2.20.17.jar imagebuilder-2.20.17.jar 
+ schemas-2.20.17.jar accessanalyzer-2.20.17.jar computeoptimizer-2.20.17
+ .jar networkmanager-2.20.17.jar kendra-2.20.17.jar frauddetector-2.20.1
+ 7.jar codegurureviewer-2.20.17.jar codeguruprofiler-2.20.17.jar outpost
+ s-2.20.17.jar sagemakera2iruntime-2.20.17.jar ebs-2.20.17.jar kinesisvi
+ deosignaling-2.20.17.jar detective-2.20.17.jar codestarconnections-2.20
+ .17.jar synthetics-2.20.17.jar iotsitewise-2.20.17.jar macie2-2.20.17.j
+ ar codeartifact-2.20.17.jar honeycode-2.20.17.jar ivs-2.20.17.jar brake
+ t-2.20.17.jar identitystore-2.20.17.jar appflow-2.20.17.jar redshiftdat
+ a-2.20.17.jar ssoadmin-2.20.17.jar timestreamwrite-2.20.17.jar timestre
+ amquery-2.20.17.jar s3outposts-2.20.17.jar databrew-2.20.17.jar service
+ catalogappregistry-2.20.17.jar networkfirewall-2.20.17.jar mwaa-2.20.17
+ .jar devopsguru-2.20.17.jar sagemakerfeaturestoreruntime-2.20.17.jar ap
+ pintegrations-2.20.17.jar ecrpublic-2.20.17.jar amplifybackend-2.20.17.
+ jar connectcontactlens-2.20.17.jar lookoutvision-2.20.17.jar customerpr
+ ofiles-2.20.17.jar emrcontainers-2.20.17.jar sagemakeredge-2.20.17.jar 
+ healthlake-2.20.17.jar auditmanager-2.20.17.jar amp-2.20.17.jar greengr
+ assv2-2.20.17.jar iotwireless-2.20.17.jar iotfleethub-2.20.17.jar iotde
+ viceadvisor-2.20.17.jar location-2.20.17.jar wellarchitected-2.20.17.ja
+ r lexruntimev2-2.20.17.jar lexmodelsv2-2.20.17.jar fis-2.20.17.jar look
+ outmetrics-2.20.17.jar mgn-2.20.17.jar lookoutequipment-2.20.17.jar nim
+ ble-2.20.17.jar finspacedata-2.20.17.jar finspace-2.20.17.jar ssmincide
+ nts-2.20.17.jar ssmcontacts-2.20.17.jar applicationcostprofiler-2.20.17
+ .jar apprunner-2.20.17.jar proton-2.20.17.jar route53recoveryreadiness-
+ 2.20.17.jar route53recoverycontrolconfig-2.20.17.jar route53recoveryclu
+ ster-2.20.17.jar chimesdkmessaging-2.20.17.jar chimesdkidentity-2.20.17
+ .jar snowdevicemanagement-2.20.17.jar memorydb-2.20.17.jar opensearch-2
+ .20.17.jar kafkaconnect-2.20.17.jar wisdom-2.20.17.jar voiceid-2.20.17.
+ jar account-2.20.17.jar cloudcontrol-2.20.17.jar grafana-2.20.17.jar pa
+ norama-2.20.17.jar chimesdkmeetings-2.20.17.jar resiliencehub-2.20.17.j
+ ar migrationhubstrategy-2.20.17.jar drs-2.20.17.jar appconfigdata-2.20.
+ 17.jar migrationhubrefactorspaces-2.20.17.jar inspector2-2.20.17.jar ev
+ idently-2.20.17.jar rum-2.20.17.jar rbin-2.20.17.jar iottwinmaker-2.20.
+ 17.jar workspacesweb-2.20.17.jar backupgateway-2.20.17.jar amplifyuibui
+ lder-2.20.17.jar keyspaces-2.20.17.jar billingconductor-2.20.17.jar gam
+ esparks-2.20.17.jar pinpointsmsvoicev2-2.20.17.jar ivschat-2.20.17.jar 
+ chimesdkmediapipelines-2.20.17.jar emrserverless-2.20.17.jar m2-2.20.17
+ .jar connectcampaigns-2.20.17.jar redshiftserverless-2.20.17.jar rolesa
+ nywhere-2.20.17.jar licensemanagerusersubscriptions-2.20.17.jar backups
+ torage-2.20.17.jar privatenetworks-2.20.17.jar supportapp-2.20.17.jar c
+ ontroltower-2.20.17.jar iotfleetwise-2.20.17.jar migrationhuborchestrat
+ or-2.20.17.jar connectcases-2.20.17.jar resourceexplorer2-2.20.17.jar s
+ cheduler-2.20.17.jar ssmsap-2.20.17.jar chimesdkvoice-2.20.17.jar iotro
+ borunner-2.20.17.jar oam-2.20.17.jar arczonalshift-2.20.17.jar simspace
+ weaver-2.20.17.jar securitylake-2.20.17.jar opensearchserverless-2.20.1
+ 7.jar omics-2.20.17.jar docdbelastic-2.20.17.jar sagemakergeospatial-2.
+ 20.17.jar pipes-2.20.17.jar codecatalyst-2.20.17.jar sagemakermetrics-2
+ .20.17.jar kinesisvideowebrtcstorage-2.20.17.jar licensemanagerlinuxsub
+ scriptions-2.20.17.jar kendraranking-2.20.17.jar cleanrooms-2.20.17.jar
+  cloudtraildata-2.20.17.jar tnb-2.20.17.jar internetmonitor-2.20.17.jar
+  aws-java-sdk-quicksight-1.12.420.jar aws-java-sdk-core-1.12.420.jar co
+ mmons-logging-1.1.3.jar httpclient-4.5.13.jar ion-java-1.0.2.jar jackso
+ n-databind-2.12.7.1.jar jackson-annotations-2.12.7.jar jackson-core-2.1
+ 2.7.jar jackson-dataformat-cbor-2.12.6.jar jmespath-java-1.12.420.jar a
+ ws-java-sdk-cloudwatch-1.12.420.jar poi-5.2.3.jar commons-codec-1.15.ja
+ r commons-collections4-4.4.jar commons-math3-3.6.1.jar commons-io-2.11.
+ 0.jar SparseBitSet-1.2.jar log4j-api-2.18.0.jar poi-ooxml-5.2.3.jar poi
+ -ooxml-lite-5.2.3.jar xmlbeans-5.1.1.jar commons-compress-1.21.jar curv
+ esapi-1.07.jar log4j-core-2.20.0.jar slack-api-client-1.27.3.jar slack-
+ api-model-1.27.3.jar okhttp-4.10.0.jar okio-jvm-3.0.0.jar kotlin-stdlib
+ -jdk8-1.5.31.jar kotlin-stdlib-jdk7-1.5.31.jar kotlin-stdlib-common-1.5
+ .31.jar kotlin-stdlib-1.6.20.jar annotations-13.0.jar gson-2.10.1.jar s
+ lf4j-api-1.7.36.jar json-20230227.jar joda-time-2.12.2.jar
+Rsrc-Main-Class: slackQuicksightUpdater.SlackUpload
+Class-Path: .
+
